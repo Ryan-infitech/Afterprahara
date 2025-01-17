@@ -10,3 +10,10 @@ https://afterprahara.me Adalah sebuah platform web resmi yang dirancang untuk me
 
 ![Logo](./images/Logo%20afterpraharamusic.png)
 
+
+## Kontak
+
+Jika Anda memiliki pertanyaan atau saran, silakan buka issue baru di repository ini.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285157517798)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ryan.septiawan__/)
